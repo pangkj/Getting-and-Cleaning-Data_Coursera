@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data_Coursera
 ==================================
-Code explanations:
-Variables:
+Code (Variables) explanations:
+
 #Subject: 1 to 30, people who participated the data collection.
 
 #Activity:
@@ -11,7 +11,10 @@ Variables:
 4 SITTING
 5 STANDING
 6 LAYING
-Mean of the measurements:
+
+#Mean of the measurements:
+t: time 
+Acc: acceleration
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
 "tBodyAcc-mean()-Z"
